@@ -1,0 +1,2 @@
+class MyAccountPage(object):
+    pass
